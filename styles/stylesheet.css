@@ -220,6 +220,7 @@ textarea {
 }
 
 .how-it-works-description__container{
+  width: 1060px;
   text-align: center;
 }
 
